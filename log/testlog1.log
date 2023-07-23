@@ -1,0 +1,251 @@
+2022-07-25 20:41:20,998 [main] INFO 09 April AF - Framework exection started
+2022-07-25 20:41:27,338 [main] INFO 09 April AF - Chrome launches
+2022-07-25 20:41:38,934 [main] INFO 09 April AF - url launches
+2022-07-25 20:41:39,328 [main] INFO 09 April AF - maximized browser
+2022-07-25 20:41:39,337 [main] INFO 09 April AF - provided waits
+2022-07-25 20:41:55,154 [main] INFO 09 April AF - Framework exection started
+2022-07-25 20:42:01,980 [main] INFO 09 April AF - Chrome launches
+2022-07-25 20:42:14,049 [main] INFO 09 April AF - url launches
+2022-07-25 20:42:14,366 [main] INFO 09 April AF - maximized browser
+2022-07-25 20:42:14,383 [main] INFO 09 April AF - provided waits
+2022-07-25 20:42:56,585 [main] INFO 09 April AF - Framework exection started
+2022-07-25 20:43:01,203 [main] INFO 09 April AF - Chrome launches
+2022-07-25 20:43:13,548 [main] INFO 09 April AF - url launches
+2022-07-25 20:43:13,712 [main] INFO 09 April AF - maximized browser
+2022-07-25 20:43:13,719 [main] INFO 09 April AF - provided waits
+2022-07-25 20:43:14,572 [main] INFO 09 April AF - Test Case execution
+2022-07-25 20:43:25,048 [main] INFO 09 April AF - Test Case execution failed
+2022-07-25 20:43:25,620 [main] INFO 09 April AF - Chrome closed
+2022-07-25 20:43:27,136 [main] INFO 09 April AF - Chrome launches
+2022-07-25 20:43:38,915 [main] INFO 09 April AF - url launches
+2022-07-25 20:43:39,198 [main] INFO 09 April AF - maximized browser
+2022-07-25 20:43:39,211 [main] INFO 09 April AF - provided waits
+2022-07-25 20:43:39,715 [main] INFO 09 April AF - Test Case execution
+2022-07-25 20:43:44,312 [main] INFO 09 April AF - Test Case execution failed
+2022-07-25 20:43:44,800 [main] INFO 09 April AF - Chrome closed
+2022-07-25 20:43:44,802 [main] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:36:01,150 [TestNG-test=Test-1] INFO 09 April AF - Framework exection started
+2022-07-26 20:36:01,168 [TestNG-test=Test-3] INFO 09 April AF - Framework exection started
+2022-07-26 20:36:17,521 [TestNG-test=Test-1] INFO 09 April AF - Chrome launches
+2022-07-26 20:36:24,458 [TestNG-test=Test-2] INFO 09 April AF - Chrome launches
+2022-07-26 20:36:34,021 [TestNG-test=Test-3] INFO 09 April AF - Chrome launches
+2022-07-26 20:36:39,562 [TestNG-test=Test-1] INFO 09 April AF - url launches
+2022-07-26 20:36:41,598 [TestNG-test=Test-2] INFO 09 April AF - url launches
+2022-07-26 20:36:49,629 [TestNG-test=Test-3] INFO 09 April AF - url launches
+2022-07-26 20:36:50,113 [TestNG-test=Test-1] INFO 09 April AF - maximized browser
+2022-07-26 20:36:50,139 [TestNG-test=Test-2] INFO 09 April AF - maximized browser
+2022-07-26 20:36:50,161 [TestNG-test=Test-3] INFO 09 April AF - maximized browser
+2022-07-26 20:36:50,181 [TestNG-test=Test-1] INFO 09 April AF - provided waits
+2022-07-26 20:36:50,181 [TestNG-test=Test-3] INFO 09 April AF - provided waits
+2022-07-26 20:36:50,182 [TestNG-test=Test-2] INFO 09 April AF - provided waits
+2022-07-26 20:36:53,375 [TestNG-test=Test-3] INFO 09 April AF - Chrome closed
+2022-07-26 20:36:53,381 [TestNG-test=Test-3] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:36:54,067 [TestNG-test=Test-2] INFO 09 April AF - Chrome closed
+2022-07-26 20:36:54,103 [TestNG-test=Test-1] INFO 09 April AF - Chrome closed
+2022-07-26 20:36:54,104 [TestNG-test=Test-1] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:41:54,210 [main] INFO 09 April AF - Framework exection started
+2022-07-26 20:41:59,958 [main] INFO 09 April AF - Chrome launches
+2022-07-26 20:42:12,555 [main] INFO 09 April AF - url launches
+2022-07-26 20:42:13,004 [main] INFO 09 April AF - maximized browser
+2022-07-26 20:42:13,021 [main] INFO 09 April AF - provided waits
+2022-07-26 20:42:13,646 [main] INFO 09 April AF - Test Case execution
+2022-07-26 20:42:18,990 [main] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:42:19,742 [main] INFO 09 April AF - Chrome closed
+2022-07-26 20:42:21,385 [main] INFO 09 April AF - Chrome launches
+2022-07-26 20:42:34,483 [main] INFO 09 April AF - url launches
+2022-07-26 20:42:34,834 [main] INFO 09 April AF - maximized browser
+2022-07-26 20:42:34,843 [main] INFO 09 April AF - provided waits
+2022-07-26 20:42:35,323 [main] INFO 09 April AF - Test Case execution
+2022-07-26 20:42:44,684 [main] INFO 09 April AF - Test Case execution passed
+2022-07-26 20:42:45,387 [main] INFO 09 April AF - Chrome closed
+2022-07-26 20:42:45,389 [main] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:45:48,147 [TestNG-tests-1] INFO 09 April AF - Framework exection started
+2022-07-26 20:45:48,140 [TestNG-tests-3] INFO 09 April AF - Framework exection started
+2022-07-26 20:45:48,150 [TestNG-tests-2] INFO 09 April AF - Framework exection started
+2022-07-26 20:46:39,580 [TestNG-tests-1] INFO 09 April AF - url launches
+2022-07-26 20:46:40,063 [TestNG-tests-2] INFO 09 April AF - url launches
+2022-07-26 20:46:41,114 [TestNG-tests-3] INFO 09 April AF - url launches
+2022-07-26 20:46:41,699 [TestNG-tests-1] INFO 09 April AF - maximized browser
+2022-07-26 20:46:41,790 [TestNG-tests-2] INFO 09 April AF - maximized browser
+2022-07-26 20:46:41,810 [TestNG-tests-3] INFO 09 April AF - maximized browser
+2022-07-26 20:46:41,814 [TestNG-tests-2] INFO 09 April AF - provided waits
+2022-07-26 20:46:41,814 [TestNG-tests-1] INFO 09 April AF - provided waits
+2022-07-26 20:46:41,826 [TestNG-tests-3] INFO 09 April AF - provided waits
+2022-07-26 20:46:43,276 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-26 20:46:43,322 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-26 20:46:43,370 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-26 20:47:47,983 [TestNG-tests-3] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:47:48,138 [TestNG-tests-2] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:47:48,286 [TestNG-tests-1] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:47:48,939 [TestNG-tests-1] INFO 09 April AF - Chrome closed
+2022-07-26 20:47:48,939 [TestNG-tests-3] INFO 09 April AF - Chrome closed
+2022-07-26 20:47:48,939 [TestNG-tests-2] INFO 09 April AF - Chrome closed
+2022-07-26 20:48:10,663 [TestNG-tests-2] INFO 09 April AF - url launches
+2022-07-26 20:48:11,196 [TestNG-tests-3] INFO 09 April AF - url launches
+2022-07-26 20:48:11,786 [TestNG-tests-1] INFO 09 April AF - url launches
+2022-07-26 20:48:12,042 [TestNG-tests-2] INFO 09 April AF - maximized browser
+2022-07-26 20:48:12,113 [TestNG-tests-3] INFO 09 April AF - maximized browser
+2022-07-26 20:48:12,133 [TestNG-tests-1] INFO 09 April AF - maximized browser
+2022-07-26 20:48:12,133 [TestNG-tests-2] INFO 09 April AF - provided waits
+2022-07-26 20:48:12,136 [TestNG-tests-3] INFO 09 April AF - provided waits
+2022-07-26 20:48:12,192 [TestNG-tests-1] INFO 09 April AF - provided waits
+2022-07-26 20:48:13,605 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-26 20:48:13,661 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-26 20:48:13,717 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-26 20:49:18,457 [TestNG-tests-2] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:49:18,626 [TestNG-tests-3] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:49:18,887 [TestNG-tests-1] INFO 09 April AF - Test Case execution failed
+2022-07-26 20:49:19,449 [TestNG-tests-1] INFO 09 April AF - Chrome closed
+2022-07-26 20:49:19,449 [TestNG-tests-3] INFO 09 April AF - Chrome closed
+2022-07-26 20:49:19,449 [TestNG-tests-2] INFO 09 April AF - Chrome closed
+2022-07-26 20:49:19,451 [TestNG-tests-1] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:49:19,451 [TestNG-tests-2] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:49:19,451 [TestNG-tests-3] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:49:19,462 [TestNG-tests-3] INFO 09 April AF - Framework exection started
+2022-07-26 20:49:19,457 [TestNG-tests-1] INFO 09 April AF - Framework exection started
+2022-07-26 20:49:19,468 [TestNG-tests-2] INFO 09 April AF - Framework exection started
+2022-07-26 20:49:39,617 [TestNG-tests-2] INFO 09 April AF - url launches
+2022-07-26 20:49:40,688 [TestNG-tests-1] INFO 09 April AF - url launches
+2022-07-26 20:49:41,616 [TestNG-tests-3] INFO 09 April AF - url launches
+2022-07-26 20:49:42,162 [TestNG-tests-2] INFO 09 April AF - maximized browser
+2022-07-26 20:49:42,192 [TestNG-tests-1] INFO 09 April AF - maximized browser
+2022-07-26 20:49:42,197 [TestNG-tests-3] INFO 09 April AF - maximized browser
+2022-07-26 20:49:42,202 [TestNG-tests-2] INFO 09 April AF - provided waits
+2022-07-26 20:49:42,204 [TestNG-tests-1] INFO 09 April AF - provided waits
+2022-07-26 20:49:42,255 [TestNG-tests-3] INFO 09 April AF - provided waits
+2022-07-26 20:49:43,656 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-26 20:49:43,703 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-26 20:49:43,749 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-26 20:49:45,413 [TestNG-tests-2] INFO 09 April AF - Test Case execution passed
+2022-07-26 20:49:45,497 [TestNG-tests-1] INFO 09 April AF - Test Case execution passed
+2022-07-26 20:49:46,715 [TestNG-tests-3] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:49:46,811 [TestNG-tests-2] INFO 09 April AF - Chrome closed
+2022-07-26 20:49:46,811 [TestNG-tests-1] INFO 09 April AF - Chrome closed
+2022-07-26 20:49:46,812 [TestNG-tests-2] INFO 09 April AF - Framework exection Stopped
+2022-07-26 20:49:46,813 [TestNG-tests-1] INFO 09 April AF - Framework exection Stopped
+2022-07-28 09:46:24,029 [main] INFO 09 April AF - Framework exection started
+2022-07-28 09:46:41,262 [main] INFO 09 April AF - Chrome launches
+2022-07-28 09:46:46,656 [main] INFO 09 April AF - url launches
+2022-07-28 09:46:48,599 [main] INFO 09 April AF - maximized browser
+2022-07-28 09:46:48,636 [main] INFO 09 April AF - provided waits
+2022-07-28 09:47:01,151 [main] INFO 09 April AF - Test Case execution
+2022-07-28 09:47:19,834 [main] INFO 09 April AF - Test Case execution failed
+2022-07-28 09:47:20,917 [main] INFO 09 April AF - Chrome closed
+2022-07-28 09:47:22,474 [main] INFO 09 April AF - Chrome launches
+2022-07-28 09:47:29,167 [main] INFO 09 April AF - url launches
+2022-07-28 09:47:29,318 [main] INFO 09 April AF - maximized browser
+2022-07-28 09:47:29,334 [main] INFO 09 April AF - provided waits
+2022-07-28 09:47:29,903 [main] INFO 09 April AF - Test Case execution
+2022-07-28 09:47:39,736 [main] INFO 09 April AF - Test Case execution passed
+2022-07-28 09:47:40,461 [main] INFO 09 April AF - Chrome closed
+2022-07-28 09:47:40,464 [main] INFO 09 April AF - Framework exection Stopped
+2022-07-28 09:50:48,217 [TestNG-tests-1] INFO 09 April AF - Framework exection started
+2022-07-28 09:50:48,234 [TestNG-tests-3] INFO 09 April AF - Framework exection started
+2022-07-28 09:50:48,238 [TestNG-tests-2] INFO 09 April AF - Framework exection started
+2022-07-28 09:51:05,334 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:05,350 [TestNG-tests-3] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:05,376 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:05,389 [TestNG-tests-3] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:05,416 [TestNG-tests-3] INFO 09 April AF - Framework exection started
+2022-07-28 09:51:05,996 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:06,002 [TestNG-tests-2] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:06,010 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:06,032 [TestNG-tests-2] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:06,063 [TestNG-tests-2] INFO 09 April AF - Framework exection started
+2022-07-28 09:51:06,275 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:06,281 [TestNG-tests-1] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:06,300 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:06,305 [TestNG-tests-1] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:06,318 [TestNG-tests-1] INFO 09 April AF - Framework exection started
+2022-07-28 09:51:07,981 [TestNG-tests-3] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:07,983 [TestNG-tests-3] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:10,243 [TestNG-tests-2] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:10,248 [TestNG-tests-2] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:51:11,138 [TestNG-tests-1] INFO 09 April AF - Test Case execution
+2022-07-28 09:51:11,143 [TestNG-tests-1] INFO 09 April AF - Test Case execution skipped
+2022-07-28 09:53:07,095 [TestNG-test=Test-3] INFO 09 April AF - Framework exection started
+2022-07-28 09:53:07,096 [TestNG-test=Test-1] INFO 09 April AF - Framework exection started
+2022-10-04 19:07:38,253 [main] INFO 09 April AF - Framework exection started
+2022-10-04 19:07:45,760 [main] INFO 09 April AF - Chrome launches
+2022-10-04 19:07:53,860 [main] INFO 09 April AF - url launches
+2022-10-04 19:07:55,365 [main] INFO 09 April AF - maximized browser
+2022-10-04 19:07:55,373 [main] INFO 09 April AF - provided waits
+2022-10-04 19:08:01,768 [main] INFO 09 April AF - Test Case execution
+2022-10-04 19:08:15,160 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 19:08:19,397 [main] INFO 09 April AF - Chrome closed
+2022-10-04 19:08:21,951 [main] INFO 09 April AF - Chrome launches
+2022-10-04 19:08:28,238 [main] INFO 09 April AF - url launches
+2022-10-04 19:08:28,368 [main] INFO 09 April AF - maximized browser
+2022-10-04 19:08:28,374 [main] INFO 09 April AF - provided waits
+2022-10-04 19:08:29,092 [main] INFO 09 April AF - Test Case execution
+2022-10-04 19:08:37,644 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 19:08:38,473 [main] INFO 09 April AF - Chrome closed
+2022-10-04 19:08:38,474 [main] INFO 09 April AF - Framework exection Stopped
+2022-10-04 19:15:08,127 [main] INFO 09 April AF - Framework exection started
+2022-10-04 19:15:11,482 [main] INFO 09 April AF - Chrome launches
+2022-10-04 19:15:16,793 [main] INFO 09 April AF - url launches
+2022-10-04 19:15:17,833 [main] INFO 09 April AF - maximized browser
+2022-10-04 19:15:17,841 [main] INFO 09 April AF - provided waits
+2022-10-04 19:15:18,453 [main] INFO 09 April AF - Test Case execution
+2022-10-04 19:15:28,398 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 19:15:29,765 [main] INFO 09 April AF - Chrome closed
+2022-10-04 19:15:35,186 [main] INFO 09 April AF - Chrome launches
+2022-10-04 19:15:48,079 [main] INFO 09 April AF - url launches
+2022-10-04 19:15:48,212 [main] INFO 09 April AF - maximized browser
+2022-10-04 19:15:48,222 [main] INFO 09 April AF - provided waits
+2022-10-04 19:15:48,731 [main] INFO 09 April AF - Test Case execution
+2022-10-04 19:15:57,055 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 19:15:57,944 [main] INFO 09 April AF - Chrome closed
+2022-10-04 19:15:57,946 [main] INFO 09 April AF - Framework exection Stopped
+2022-10-04 19:17:53,608 [TestNG-test=Test-1] INFO 09 April AF - Framework exection started
+2022-10-04 19:17:53,640 [TestNG-test=Test-3] INFO 09 April AF - Framework exection started
+2022-10-04 22:40:42,072 [main] INFO 09 April AF - Framework exection started
+2022-10-04 22:41:22,926 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:41:49,361 [main] INFO 09 April AF - url launches
+2022-10-04 22:41:53,204 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:41:53,254 [main] INFO 09 April AF - provided waits
+2022-10-04 22:42:01,095 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:42:19,120 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:42:23,464 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:42:27,216 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:42:36,663 [main] INFO 09 April AF - url launches
+2022-10-04 22:42:36,793 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:42:36,799 [main] INFO 09 April AF - provided waits
+2022-10-04 22:42:37,694 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:42:47,041 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:43:04,156 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:43:04,158 [main] INFO 09 April AF - Framework exection Stopped
+2022-10-04 22:44:19,575 [TestNG-test=Test-1] INFO 09 April AF - Framework exection started
+2022-10-04 22:44:19,575 [TestNG-test=Test-3] INFO 09 April AF - Framework exection started
+2022-10-04 22:44:53,148 [main] INFO 09 April AF - Framework exection started
+2022-10-04 22:44:58,925 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:45:06,818 [main] INFO 09 April AF - url launches
+2022-10-04 22:45:07,033 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:45:07,047 [main] INFO 09 April AF - provided waits
+2022-10-04 22:45:08,075 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:45:17,959 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:45:19,089 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:45:21,394 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:45:31,249 [main] INFO 09 April AF - url launches
+2022-10-04 22:45:31,545 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:45:31,554 [main] INFO 09 April AF - provided waits
+2022-10-04 22:45:32,110 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:45:52,740 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:45:53,463 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:45:53,481 [main] INFO 09 April AF - Framework exection Stopped
+2022-10-04 22:50:22,632 [main] INFO 09 April AF - Framework exection started
+2022-10-04 22:50:26,635 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:50:32,445 [main] INFO 09 April AF - url launches
+2022-10-04 22:50:32,597 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:50:32,608 [main] INFO 09 April AF - provided waits
+2022-10-04 22:50:33,230 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:50:43,033 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:50:45,593 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:50:47,308 [main] INFO 09 April AF - Chrome launches
+2022-10-04 22:50:52,608 [main] INFO 09 April AF - url launches
+2022-10-04 22:50:53,291 [main] INFO 09 April AF - maximized browser
+2022-10-04 22:50:53,306 [main] INFO 09 April AF - provided waits
+2022-10-04 22:50:53,927 [main] INFO 09 April AF - Test Case execution
+2022-10-04 22:51:02,588 [main] INFO 09 April AF - Test Case execution failed
+2022-10-04 22:51:03,314 [main] INFO 09 April AF - Chrome closed
+2022-10-04 22:51:03,318 [main] INFO 09 April AF - Framework exection Stopped
